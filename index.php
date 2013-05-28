@@ -11,6 +11,10 @@
             return $num1 + $num2;
         }
         suma(5,9);
+        function multiplicacio ($num1 , $num2) {
+            return $num1 * $num2;
+        }
+        multiplicacio(7,5);
         ?>
     </body>
 </html>
